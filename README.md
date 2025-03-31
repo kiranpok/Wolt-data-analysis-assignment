@@ -6,6 +6,7 @@ This repository contains my assignment submission for the Data Science (Analytic
 - **data/**: Contains the original dataset (CSV file).
 - **notebook/**: Contains Python notebook used for data analysis.
 - **images/**: Visualizations generated from data analysis.
+- **KIRAN_SQL_WOLT.docx**: Document summarizing Task 1 (SQL queries) and Task 2 (data analysis), including detailed explanations of visualizations and key insights.
 
 ## Tools Used:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
